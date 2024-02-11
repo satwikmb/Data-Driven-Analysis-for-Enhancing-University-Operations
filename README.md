@@ -1,6 +1,6 @@
 IST 722 - DATA WAREHOUSE
 
-# Group S3 SampleU Project
+# SampleU Project
 
 ## Overview
 
@@ -27,7 +27,3 @@ The synergy between dbt and Power BI marked the visualization and analysis phase
 ![image](https://github.com/s3ist722/S3DBT/blob/main/images/Course%20Demo.png)
 ![image](https://github.com/s3ist722/S3DBT/blob/main/images/Student%20Demo.png)  
 ![image](https://github.com/s3ist722/S3DBT/blob/main/images/Department%20Details.png)
-
-## Contributors
-
-Sahil Wani, Satwik Belaldavar, Shruti Rao
