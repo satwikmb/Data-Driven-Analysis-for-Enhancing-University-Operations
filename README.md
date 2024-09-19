@@ -1,6 +1,6 @@
 IST 722 - DATA WAREHOUSE
 
-# SampleU Project
+# Data Driven Analysis for Enhancing University Operations
 
 ## Overview
 
